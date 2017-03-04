@@ -2,3 +2,5 @@
 Test
 
 Additional text.
+
+Added in master.
