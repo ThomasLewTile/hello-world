@@ -3,6 +3,6 @@ Test
 
 Additional text.
 
-Added in master.
+Line added in master.  Then staged.  Then committed.
 
 Added in tl/branch_1.
